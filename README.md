@@ -10,5 +10,6 @@
 *   The average fare is less in urban areas compare to suburban and rural areas. This could be because of large number of drivers in the urban areas. If we see the pie charts, we can observe that cities make up for 62.7% and 68.4% of total fare and rides respectively, but the number of drivers in the city is 80.9% of the total drivers. So, it is because of large number of drivers in these cities causing lower prices.
 
 
+![CityRides_Pieplot](/CityRides.png)                                              ![CityFares_Pieplot](/CityFares.png)
 
 
